@@ -4,4 +4,9 @@ Lauren was here!
 
 
 HI
+<<<<<<< HEAD
 hi
+=======
+
+Changing this.
+>>>>>>> fc6b183494c05dfce2a03e72aad453e520084587
