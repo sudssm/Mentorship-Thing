@@ -1,3 +1,16 @@
 Lots of great text
 
 Lauren was here!
+
+<<<<<<< HEAD
+Sudarshan was too
+=======
+
+HI
+<<<<<<< HEAD
+hi
+=======
+
+Changing this.
+>>>>>>> fc6b183494c05dfce2a03e72aad453e520084587
+>>>>>>> 441985d1e581a46f4282da03857f52e3bf4706c3
